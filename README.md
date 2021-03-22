@@ -8,8 +8,10 @@
     * Can resolve division by 0 and 0/0 undefined operation
     ![third](Resources/third.PNG)
     ![fourth](Resources/fourth.PNG)
+    
     * Can compute multiple operations at once
     ![second](Resources/second.PNG)
+    
     * Can compute float numbers
     ![fifth](Resources/fifth.PNG)
 
