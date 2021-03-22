@@ -10,9 +10,11 @@
     ![fourth](Resources/fourth.PNG)
     
     * Can compute multiple operations at once
+
     ![second](Resources/second.PNG)
     
     * Can compute float numbers
+    
     ![fifth](Resources/fifth.PNG)
 
 * What I used:
